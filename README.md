@@ -1,4 +1,4 @@
-# Hey there, I’m Pras! 👋  
+# Hey there, I’m Gede Prasetya! 👋  
 
 I’m a **self-taught web developer** from Indonesia who’s passionate about building websites that are fast, useful, and beautiful.  
 
@@ -26,9 +26,9 @@ I’m a **self-taught web developer** from Indonesia who’s passionate about bu
 ---
 
 ### 📊 GitHub Stats
-![Pras's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasetyamaha&show_icons=true&theme=tokyonight)
+![Pras's GitHub stats](https://github-readme-stats.vercel.app/api?username=gedeprasetya&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyamaha&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedeprasetya&layout=compact&theme=tokyonight)
 
 ---
 
@@ -38,7 +38,7 @@ If you’re building something cool and think I could help, **let’s connect!**
 
 📬 **Reach me at:** prasetyamahaputra8@gmail.com  
 🌐 **My portfolio:** [blog-deprasio.vercel.app](https://blog-deprasio.vercel.app)  
-🐦 **Twitter/X:** [@yourhandlehere](https://twitter.com) (optional)
+🐦 **Twitter/X:** [@yourhandlehere](https://twitter.com/gedeprasetya__) 
 
 ---
 ⭐️ _“Code is more fun when we build it together.”_
