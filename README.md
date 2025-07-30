@@ -1,6 +1,6 @@
 ![Banner](./github-header-image.png)
 
-# 🌟 Hey there, I’m Gede Prasetya! 👋  
+# 🌟 Hey there! 👋  
 
 I’m a **self-taught web developer** from Indonesia who’s passionate about building websites that are fast, useful, and beautiful.  
 
