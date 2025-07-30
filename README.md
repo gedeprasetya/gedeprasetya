@@ -1,4 +1,4 @@
-![Banner](./banner-github.png)
+![Banner](./github-header-image.png)
 
 # 🌟 Hey there, I’m Gede Prasetya! 👋  
 
